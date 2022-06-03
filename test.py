@@ -1,1 +1,3 @@
-print("sddasdadad")
+A={'Age':24, 'Name':'John'}
+
+print(A)
